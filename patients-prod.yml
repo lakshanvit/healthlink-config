@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 patients:
-  message: "Welcome to HealthLink patients related prod APIs "
+  message: "Welcome to HealthLink patients related production APIs "
   contactDetails:
     name: "Lakshan Vithanage - Product Owner"
     email: "{cipher}88e204c86ac843c89a8351e03123777a7fd51af5240539c7c4cc50f827995e8f71818c17a9a59ca433ebb5319b038635"
